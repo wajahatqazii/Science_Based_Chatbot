@@ -9,7 +9,7 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
 1. **Clone the Repository:**
 
     ```bash
-    https://github.com/Ahsanmaqbool/science_chatbot.git
+    https://github.com/wajahatqazii/Science_Based_Chatbot.git
     cd science_chatbot
     ```
 
